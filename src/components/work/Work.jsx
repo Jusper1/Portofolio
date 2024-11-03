@@ -21,7 +21,7 @@ const Work = () => {
           </div>
           <div className="workContent">
             <div className="workText">
-              <span className="workNumber">03.</span>
+              <span className="workNumber">01.</span>
               <div className="workTitle">
                 <span>E-Commerce Pisang Meledak</span>
                 <span>
