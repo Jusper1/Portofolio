@@ -29,10 +29,10 @@
 
 .aboutInfo {
   display: flex;
-  align-items: center; /* Centers vertically */
-  justify-content: center; /* Centers horizontally */
-  text-align: center; /* Centers text within the container */
-  height: 100%; /* Optional: makes sure the content takes full height of the container */
-  padding: 100px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100%;
+  padding: 2rem 1.5rem 2rem 1.5rem;
   margin: 0;
 }

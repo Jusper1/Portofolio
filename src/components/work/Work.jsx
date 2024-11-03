@@ -13,21 +13,20 @@ const Work = () => {
           <span>Project</span>
           <span>Project</span>
         </div>
-        <span className="workOpening">Portofolio projects</span>
       </div>
       <div className="workContainerMain">
         <div className="workMain">
           <div className="imageWrapper">
-            <img className="workImage" src={Picture1} alt="Project 1" />
+            <img className="workImage" src={Picture2} alt="Project 1" />
           </div>
           <div className="workContent">
             <div className="workText">
-              <span className="workNumber">01.</span>
+              <span className="workNumber">03.</span>
               <div className="workTitle">
-                <span>OnlineShop</span>
+                <span>E-Commerce Pisang Meledak</span>
                 <span>
-                  Aplikasi online shop berbasis bahasa Flutter dengan fitur
-                  CRUD.
+                  Aplikasi mobile E-Commerce berbasis Flutter dengan backend
+                  Laravel.
                 </span>
               </div>
             </div>
@@ -39,6 +38,7 @@ const Work = () => {
             </div>
           </div>
         </div>
+        
 
         <div className="workMain">
           <div className="imageWrapper">
@@ -63,19 +63,18 @@ const Work = () => {
             </div>
           </div>
         </div>
-
         <div className="workMain">
           <div className="imageWrapper">
-            <img className="workImage" src={Picture2} alt="Project 3" />
+            <img className="workImage" src={Picture1} alt="Project 3" />
           </div>
           <div className="workContent">
             <div className="workText">
               <span className="workNumber">03.</span>
               <div className="workTitle">
-                <span>E-Commerce Pisang Meledak</span>
+                <span>OnlineShop</span>
                 <span>
-                  Aplikasi mobile E-Commerce berbasis Flutter dengan backend
-                  Laravel.
+                  Aplikasi online shop berbasis bahasa Flutter dengan fitur
+                  CRUD.
                 </span>
               </div>
             </div>
