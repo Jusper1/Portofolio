@@ -10,9 +10,9 @@ const Footer = () => {
         <span>Connect with</span>
       </div>
       <div className="footerLink">
-        <a href="mailto:Hafisalkadri@gmail.com">Email Me</a>
-        <a href="https://wa.me/085263154625">whatshap Me</a>
-        <a href="https://github.com/jusper1">Github me</a>
+        <a href="mailto:Hafisalkadri@gmail.com">Email</a>
+        <a href="https://wa.me/085263154625">whatshap</a>
+        <a href="https://github.com/jusper1">Github</a>
       </div>
       <div className="footerSosmed">
         <a href="https://instagram.com/hafis.alkdr1">Instagram</a>

@@ -32,8 +32,8 @@ const Service = () => {
         <div className="serviceTechStack">
           <span>Laravel</span>
           <span>flutter</span>
-          <span>node JS</span>
-          <span>React JS</span>
+          <span>node</span>
+          <span>React</span>
           <span>MySQL</span>
         </div>
         <div className="serviceTechStack">
